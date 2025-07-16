@@ -15,7 +15,6 @@ This project builds a machine learning model to predict the NBA’s Most Valuabl
 
 - Advanced metric aggregation: PER, Win Shares, BPM, TS%, VORP
 - Team performance and win-loss context
-- Media sentiment analysis from podcasts and articles
 - MVP voting history from Basketball Reference
 - Composite scoring model + classification & regression models
 
